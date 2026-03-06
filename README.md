@@ -18,7 +18,7 @@
 <!--Start Intro-->               
 <p align="left">Activo de vez en cuando en el ponetoun </p>
 
--Sin completar como el 90% de lo que hago, lol-
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
