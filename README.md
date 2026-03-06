@@ -1,5 +1,6 @@
 <!--Banner-->
-![image alt](https://github.com/luxxtral/luxxtral/blob/b11265449ecf8d3db666aac687ac68226b943dd5/Banner%20Ryomen%20Sukuna.jfif)
+![image alt]()
+
 <!--Image Sukuna-->
 <div>
   <img align="center" width="40%" src="">
