@@ -3,7 +3,7 @@
 
 <!--Image Sukuna-->
 <div>
-  <img align="center" width="40%" src="">
+  
 </div>
 
 <!--Header Name-->
@@ -21,4 +21,3 @@
 
 <br />
 
-Last Edited on: 03/05/2026
