@@ -16,7 +16,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Activo de vez en cuando en el ponetoun </p>
+<p align="left">De vez en cuando en el ponetoun </p>
 
 
 <!--End Intro-->
