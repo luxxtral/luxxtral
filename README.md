@@ -12,11 +12,11 @@
 
 <!--Header Name-->
 # <img src="https://slackmojis.com/emojis/71109-scared-yuji-jjk/download" width="30"/> ɪ'ᴍ [ʟᴜxx!][website] 
-*Spanish / English*
+*Spanish / English / Multifandom :D*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">De vez en cuando en el ponetoun </p>
+<p align="left">Activo de vez en cuando en el ponetoun </p>
 
 
 <!--End Intro-->
