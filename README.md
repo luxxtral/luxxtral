@@ -18,6 +18,8 @@
 <!--Start Intro-->               
 <p align="left">Activo de vez en cuando en el ponetoun </p>
 
+<p align="center">Yes, I freaking like Sukuna </p>
+
 
 <!--End Intro-->
 
